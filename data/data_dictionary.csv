@@ -1,0 +1,16 @@
+field,description
+session_id,Unique session ID
+date,Session date
+channel,Acquisition source
+device,Device type
+country,Country
+landing_page,Landing page
+pages_viewed,Pages viewed
+session_duration_sec,Session duration in seconds
+bounce,1=bounce
+product_view,Product page viewed
+pricing_view,Pricing page viewed
+signup_start,Signup started
+signup_complete,Signup completed
+engaged,1=engaged session
+month,Calendar month
